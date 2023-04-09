@@ -1,5 +1,12 @@
-# UFIGHJDJNFUJISFGBNSDIGUJVNRF
-# EUGENE PUBLIC LIBRARY
+Oh, hello there. I'm...
+
+# Eugene Sillona - Aspiring Front-end Developer.
+
+I am a third-year college student studying Computer Science majoring in Software Technology. I have worked on developing websites for school projects where my major contribution consists of front-end development, website design, and some backend work.
+
+Asides from development, I am also a Music Producer, Graphic Designer, Photographer, and a Video Editor.
+
+
 
 <!--
 **jojiSillona/jojiSillona** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
