@@ -1,8 +1,6 @@
-Oh, hello there. I'm...
+<h1 align="center">Hi, I'm Eugene
 
-# Eugene Sillona - Aspiring Front-end Developer.
-
-I am a third-year college student studying Computer Science majoring in Software Technology. I have worked on developing websites for school projects where my major contribution consists of front-end development, website design, and some backend work.
+I am a fith-year college student studying Computer Science majoring in Software Technology. I have worked on developing websites for school projects where my major contribution consists of front-end development, website design, and some backend work.
 
 Asides from development, I am also a Music Producer, Graphic Designer, Photographer, and a Video Editor.
 
