@@ -1,5 +1,5 @@
 <h1 align="center">Hi, I'm Eugene</h1>
-<p>I am a 5th-year Computer Science student majoring in Software Technology at De La Salle University. Based in Marikina, Philippines, I specialize in building interactive modern web applications with a strong focus on UI/UX and performance optimizations</p>
+<p>I am a graduating Computer Science student majoring in Software Technology at De La Salle University. Based in Marikina, Philippines, I specialize in building interactive modern web applications with a strong focus on UI/UX and performance optimizations</p>
 
 ## Languages
 ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
